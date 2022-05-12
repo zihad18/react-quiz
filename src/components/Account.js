@@ -1,3 +1,4 @@
+import React from 'react';
 import classes from '../styles/Account.module.css';
 export default function Account(){
 
